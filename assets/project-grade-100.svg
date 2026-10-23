@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="225" height="30" viewBox="0 0 225 30" role="img" aria-label="Project grade: 100 out of 100">
+  <title>Project grade: 100/100</title>
+  <defs>
+    <clipPath id="rounded"><rect width="225" height="30" rx="6"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="225" height="30" fill="#10232f"/>
+    <rect x="137" width="88" height="30" fill="#087f8c"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+    <text x="68.5" y="19.5" font-size="10.5" letter-spacing="1">PROJECT GRADE</text>
+    <text x="181" y="20" font-size="14" font-weight="700">100/100</text>
+  </g>
+</svg>

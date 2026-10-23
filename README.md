@@ -1,5 +1,7 @@
 # CpG Island Prediction with Hidden Markov Models
 
+<img src="assets/project-grade-100.svg" width="180" height="24" alt="Project grade: 100/100">
+
 **From DNA sequence to per-base CpG-island annotations.** A computational-biology coursework implementation of supervised HMM training, context-expanded sequence models, and two approaches to decoding.
 
 The project explores how sequence context, reverse-complement augmentation, and minimum island length affect annotation. Its modular pipeline separates state design, DNA encoding, parameter estimation, decoding, and evaluation, making those choices explicit rather than hiding them behind a classifier API.
